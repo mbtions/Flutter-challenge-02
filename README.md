@@ -1,7 +1,6 @@
-# mi_card
+# Flutter-Challenge-02: Using Row, Column and Container widgets
 
-A new Flutter project.
-
+![app](./git-files/app%20code.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
